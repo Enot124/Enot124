@@ -8,7 +8,7 @@
   <a href="https://www.instagram.com/dan_enot124">
     <img src="https://img.shields.io/badge/Instagram-purple?logo=instagram&logoColor=white&style=for-the-badge" alt="Instagram Badge"/>
   </a>
-  <a href="  https://t.me/enot_124">
+  <a href="https://t.me/enot_124">
     <img src="https://img.shields.io/badge/Telegram-blue?logo=telegram&logoColor=white&style=for-the-badge" alt="Telegram Badge"/>
   </a>
 </div>
@@ -26,7 +26,7 @@
 
 - :zap: I like sports: football, volleyball, bodybuilding. I also read technical and fiction books in my free time. My favorite author is Stephen King. I love playing video games, but I love making my own. In addition to programming, I like the profession of a game designer and in the future I want to master it. My dream is to get a job in a big game studio.
 
-- :mailbox:How to reach me: [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](dan.enot@gmail.com)
+- :mailbox:How to reach me: [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:dan.enot@gmail.com)
 
 ---
 
